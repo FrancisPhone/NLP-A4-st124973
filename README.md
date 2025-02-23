@@ -50,6 +50,9 @@ I am using 20 famous classic Romance books from https://www.gutenberg.org/
 - requirements.txt
 - Two sentences relation checker
 
+![APP IMAGE](demo.png)
+
+
 ## Discussion
 
 - In pretraining BERT, I think data cleaning is very important because the resources are raw texts. I tried to clean the texts but it can be better. The amount of data is also small for pretraining the BERT.
