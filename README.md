@@ -1,4 +1,4 @@
-# NLP-A4-st124973
+# Text Relation Checker
 
 ## Data
 
